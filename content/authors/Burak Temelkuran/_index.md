@@ -1,43 +1,43 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Burak Temelkuran
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Burak 
+last_name: Temelkuran
 
 # Username (this should match the folder name)
 authors:
-  - 吳恩達
+  - Burak Temelkuran
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Lecturer in Biomedical Photonics
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Department of Metabolism, Digestion and Reproduction, Faculty of Medicine,Imperial College London
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 00000 My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 00000 Artificial Intelligence
+  - 00000 Computational Linguistics
+  - 00000 Information Retrieval
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: 00000 PhD in Artificial Intelligence
+      institution: 00000 Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: 00000 MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: 00000 BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
 
@@ -49,14 +49,11 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
+  - icon: globe-alt
+    icon_pack: hero
     link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -71,7 +68,6 @@ email: ''
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
-  - Visitors
 ---
 
 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
